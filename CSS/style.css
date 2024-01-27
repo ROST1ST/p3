@@ -25,7 +25,13 @@ header{
     background-color:;
 }
 
+main p{
+    font-size: 35px;
+}
 
+main a{
+    font-size: 35px;  
+}
 
 main{
     text-align: center;
